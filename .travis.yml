@@ -7,3 +7,5 @@ before_install:
 
 script:
   -  docker run -e CI=true mead1600/docker-react npm run test
+
+# Just tryna see if this works
